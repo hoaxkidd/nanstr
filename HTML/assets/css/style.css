@@ -326,12 +326,12 @@ a:hover, a:focus, a:active {
 /* footer
 ================================= */
 .footer-top {
-  background: #115c9b;
+  background: #025B38;
   height: 40px;
 }
 
 .main-footer {
-  background: #1f76bd;
+  background: #008751;
   color: #fff;
 }
 .main-footer .footer-main {
@@ -546,7 +546,7 @@ form .alert {
 .title-under {
   display: block;
   margin: 5px auto;
-  background: #1f76bd;
+  background: #008751;
   height: 1px;
   width: 280px;
 }
