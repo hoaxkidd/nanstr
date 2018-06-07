@@ -307,11 +307,11 @@ a:hover, a:focus, a:active {
 /* Team
 ================================= */
 .team-member {
-  background: #1f76bd;
+  background: #025B38;
   color: #fff;
   text-align: center;
   padding-bottom: 15px;
-  border: 1px solid #1f76bd;
+  border: 1px solid #008751;
 }
 .team-member .thumnail img {
   width: 100%;
@@ -361,7 +361,7 @@ a:hover, a:focus, a:active {
   content: "";
   height: 1px;
   display: block;
-  background: #115c9b;
+  background: #025B38;
   width: 150px;
   margin: 15px auto;
 }
@@ -370,7 +370,7 @@ a:hover, a:focus, a:active {
 }
 
 .footer-bottom {
-  background: #115c9b;
+  background: #025B38;
   padding: 3px;
 }
 
@@ -378,7 +378,7 @@ a:hover, a:focus, a:active {
   margin-bottom: 5px;
 }
 .footer-form .form-control {
-  background: #115c9b;
+  background: #025B38;
   color: #fff;
   border: 0;
   border-radius: 0;
@@ -388,7 +388,7 @@ a:hover, a:focus, a:active {
 }
 .footer-form .btn-submit {
   border-radius: 0;
-  background: #115c9b;
+  background: #025B38;
   text-transform: uppercase;
   border: 1px solid #fff;
   -moz-transition: all, 0.5s;
@@ -461,7 +461,7 @@ a:hover, a:focus, a:active {
   display: inline-block;
   width: 35px;
   height: 35px;
-  background: #1f76bd;
+  background: #008751;
   vertical-align: middle;
   margin-right: 5px;
   color: #fff;
