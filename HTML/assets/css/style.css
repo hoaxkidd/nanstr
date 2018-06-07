@@ -603,7 +603,7 @@ form .alert {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  background: #1f76bd;
+  background: #025B38;
   color: #fff;
 }
 
@@ -612,11 +612,11 @@ form .alert {
 }
 
 .nav-tabs > li > a:hover {
-  border-color: #1f76bd #1f76bd #1f76bd #115c9b;
+  border-color: #025B38 #025B38 #025B38 #025B38;
 }
 
 .nav > li > a:hover, .nav > li > a:focus {
-  background: #115c9b;
+  background: #025B38;
   color: #fff;
 }
 
