@@ -267,7 +267,7 @@ a:hover, a:focus, a:active {
 .cause {
   padding-bottom: 15px;
   margin-bottom: 30px;
-  border: 1px solid #1f76bd;
+  border: 1px solid #008751;
   -moz-transition: all, 0.3s;
   -o-transition: all, 0.3s;
   -webkit-transition: all, 0.3s;
@@ -301,7 +301,7 @@ a:hover, a:focus, a:active {
 .cause:hover {
   background: #f0f0f0;
   color: #025B38;
-  border-color: #144d7b;
+  border-color: #025B3B;
 }
 
 /* Team
@@ -513,11 +513,11 @@ form .alert {
 
 .btn-secondary {
   background: #fff;
-  color: #1f76bd;
+  color: #025B38;
   border-radius: 0;
 }
 .btn-secondary:hover {
-  background: #1f76bd;
+  background: #025B38;
   color: #fff;
 }
 
@@ -570,8 +570,8 @@ form .alert {
 /* Tabeles
 ================================= */
 .table-style-1 thead {
-  background: #1f76bd;
-  border-bottom: 1px solid #144d7b;
+  background: #025B38;
+  border-bottom: 1px solid #008751;
   color: #fff;
 }
 .table-style-1 td,
@@ -623,15 +623,15 @@ form .alert {
 /* Accordion
 ================================= */
 .panel-default {
-  border-color: #1f76bd;
+  border-color: #008751;
   border-radius: 0;
 }
 .panel-default > .panel-heading {
-  background: #1f76bd;
+  background: #008751;
   color: #fff;
 }
 .panel-default > .panel-heading:hover {
-  background: #115c9b;
+  background: #008751;
 }
 
 /* Modal
@@ -640,7 +640,7 @@ form .alert {
   border-radius: 0;
 }
 .modal .modal-header {
-  background: #1f76bd;
+  background: #025B38;
   color: #fff;
 }
 .modal .modal-header .close {
@@ -828,8 +828,8 @@ form .alert {
   .navbar-main li:hover .submenu li,
   .navbar-main li:active .submenu li,
   .navbar-main li:focus .submenu li {
-    background: #115c9b;
-    border-top-color: #1f76bd;
+    background: #025b38;
+    border-top-color: #008751;
   }
 
   .carousel-home .carousel-title {
